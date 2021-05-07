@@ -14,7 +14,7 @@
     "logs:prod": "heroku logs --tail"
 
   },
-  
+  "proxy": "http://localhost:3001",
   "author": "Phung Duc Thao",
   "license": "MIT",
   "devDependencies": {
